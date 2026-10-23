@@ -1,0 +1,1 @@
+Merhaba <strong>{{ $isim }}</strong>
